@@ -1,8 +1,8 @@
 # ConsoleScheduler
 Test Console Scheduler application
 
-First you need to download all Nuget packages in case when VS not load it automatically 
-To run application you need setup DB and set keys in App.config file
+First you need to download all Nuget packages in case when VS not load it automatically. 
+To run application you need setup DB and set keys in App.config file.
 
 1) Setup DB.
 - Make sure that you had already created empty Database for this test application
